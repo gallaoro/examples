@@ -1,0 +1,26 @@
+/* 
+    Created on : 12-nov-2014, 14.20.14
+    Author     : Gabriele
+*/
+*{
+    margin:0;
+}
+.quadrato{
+    width:100px;
+    height: 100px;
+    border-radius:10px;
+    margin: 5px;
+    display:inline-block;
+    background-color: red;
+}
+.button{
+    width:30px;
+    height:20px;
+    background-color: #00AACC;
+}
+.append{}
+.quadrato:hover{
+    -ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+}
