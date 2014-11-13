@@ -20,7 +20,8 @@ header{
     width:19%;
     height:50px;
     background-color: #00AACC;
-    display:flex;
+    display:inline-block;
+    font-size:0;
 }
 .append{}
 .quadrato:hover{
