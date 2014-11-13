@@ -13,7 +13,7 @@ $(document).ready(function () {
     }, 1000);
     
     var vettore = ["#00AACC", "#FF4E00", "#00dd2f", "#ff4444", "#00AACC", "#ffdb00", "#a700b3"];
-    for (var i = 0; i < 150; i++) {
+    for (var i = 0; i < 200; i++) {
         var col = vettore[Math.floor((Math.random() * vettore.length))];
         var $append = $(".append");
         $append.after("<div class=\"quadrato\" style=\"background-color:" + col + "\"></div>");
