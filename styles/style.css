@@ -6,8 +6,8 @@
     margin:0;
 }
 .quadrato{
-    width:100px;
-    height: 100px;
+    width:7%;
+    padding-top:7%;
     border-radius:10px;
     margin: 5px;
     display:inline-block;
@@ -24,8 +24,4 @@ header{
     margin-right:-4px;
 }
 .append{}
-.quadrato:hover{
-    -ms-transform: rotate(180deg); /* IE 9 */
-    -webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
-    transform: rotate(180deg);
-}
+
