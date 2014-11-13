@@ -13,6 +13,9 @@
     display:inline-block;
     background-color: red;
 }
+header{
+    width:100%;
+}
 .button{
     width:20%;
     height:50px;
