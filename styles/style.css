@@ -21,8 +21,7 @@ header{
     height:50px;
     background-color: #00AACC;
     display:inline-block;
-    letter-spacing: -4px;
-    word-spacing: -4px;
+    margin-right:-4px;
 }
 .append{}
 .quadrato:hover{
