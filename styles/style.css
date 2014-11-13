@@ -17,6 +17,7 @@
     width:20%;
     height:50px;
     background-color: #00AACC;
+    display:inline-block;
 }
 .append{}
 .quadrato:hover{
